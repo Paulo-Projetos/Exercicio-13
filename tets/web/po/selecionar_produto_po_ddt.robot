@@ -2,7 +2,6 @@
 Resource       ../../../pages/base_page.robot            # Chama o arquivo 'base_page.robot' onde estão todos os Resources
 Test Template    Compra Passagem Aerea                        # Nova inclusão
 
-
 *** Test Cases ***                                 
 TC001    Paris                       Buenos Aires    234     Flights from Paris to Buenos Aires:       $432.98
 TC002    Philadelphia                Rome            43      Flights from Philadelphia to Rome:        $472.56
